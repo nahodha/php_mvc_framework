@@ -91,7 +91,7 @@
      *
      * @return Array resultset
      */
-    public function resutlSet()
+    public function resultSet()
     {
       $this->execute();
       return $this->stmt->fetchAll(PDO::FETCH_OBJ);
