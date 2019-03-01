@@ -21,7 +21,7 @@
     public function about()
     {
       $data = [
-        'title' => 'Welcom to about'
+        'title' => 'Welcome to about'
       ];
       $this->view('pages/about', $data);
     }

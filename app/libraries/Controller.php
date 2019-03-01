@@ -5,8 +5,8 @@
    * This loads the models and views.
    */
 
-  class Controller {
-
+  class Controller
+  {
     /**
      * Loads model
      *
